@@ -596,6 +596,7 @@ html{
 	/* BOTONES FLOTANTES */
 	.btn-flotante{
 		width: 100%;
+		height: 200px;
 		position: relative;
 		display: flex;
 		flex-direction: row;
